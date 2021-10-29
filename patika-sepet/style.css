@@ -1,0 +1,13 @@
+
+.basket-table-wrapper{
+    height:600px;
+    display:flex;
+
+}
+.basket-table{
+    background-color:aliceblue;
+    height:400px;
+    width: 100%;
+    padding:2rem;
+    border-radius: 5px;
+}
